@@ -1,9 +1,4 @@
-//======================================
-//alert ("eita");//
-//const title = document.querySelector('h1')
-//alert ("pause!!!!");
-//title.textContent = 'Mudando !!!'
-//title.innerHTML = '<span>Mudando!!</spam>'//
+
 const root = document.querySelector('#root')
 function newElement(tag, Content){
     const title = `<${tag}>${Content}</${tag}>`
